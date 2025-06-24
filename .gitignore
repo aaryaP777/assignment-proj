@@ -1,0 +1,11 @@
+# dependencies
+/node_modules
+
+# build
+/.next
+
+# system
+.DS_Store
+
+# zip and output
+*.zip
