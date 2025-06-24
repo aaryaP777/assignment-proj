@@ -1,11 +1,18 @@
 # dependencies
 /node_modules
 
-# build
+# build output
 /.next
 
-# system
+# system files
 .DS_Store
 
-# zip and output
+# IDE
+.vscode
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+
+# build or zip files
 *.zip
